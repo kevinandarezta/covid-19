@@ -1,0 +1,22 @@
+==========================================
+www.ascode.id (Created By Adryan Sudarman)
+==========================================
+
+Semua bermain didalam
+==========================================
+application
+- controllers/Pages.php
+- models
+- views
+
+Contoh url 1
+http://localhost/spk-ahp/pages/content/user/data
+Letak coding : application/models/content/M_user.php [lihat pada function data()]
+
+Contoh url 2
+http://localhost/spk-ahp/pages/content/user/add
+Letak coding : application/models/content/M_user.php [lihat pada function add()]
+
+Contoh url 3
+http://localhost/spk-ahp/pages/content/pegawai/data
+Letak coding : application/models/content/M_pegawai.php [lihat pada function data()]
